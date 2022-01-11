@@ -1,7 +1,5 @@
 <component name="ProjectCodeStyleConfiguration">
   <code_scheme name="Project" version="173">
-    <option name="USE_SAME_INDENTS" value="true" />
-    <option name="IGNORE_SAME_INDENTS_FOR_LANGUAGES" value="true" />
     <option name="OTHER_INDENT_OPTIONS">
       <value>
         <option name="INDENT_SIZE" value="2" />
@@ -116,9 +114,6 @@
       <option name="SD_BLANK_LINE_AFTER_PARAMETERS_COMMENTS" value="true" />
       <option name="SD_BLANK_LINE_AFTER_RETURN_COMMENTS" value="true" />
     </ScalaCodeStyleSettings>
-    <XML>
-      <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-    </XML>
     <ADDITIONAL_INDENT_OPTIONS fileType="sass">
       <option name="INDENT_SIZE" value="2" />
     </ADDITIONAL_INDENT_OPTIONS>
